@@ -1,0 +1,5 @@
+Cual es el objetivo del trabajo?: Presentar un portafolio de inversiones personalizado para clientes.
+Que se tiene que maximizar/minimizar?: el retorno esperado, respetando las restricciones
+Que clases tiene?: ACTIVO(), CLIENTE(), PERFILDERIESGO(), PORTAFOLIOPRINCIPAL(), ALGORITMOPRINCIPAL(), EVALUADOR(), PREFERENCIAS(), PRIMERPORTAFOLIOALTERNATIVO(), PRIMERALGORITMOALTERNATIVO(), SEGUNDOPORTAFOLIOALTERNATIVO(), SEGUNDOALGORITMOALTERNATIVO()
+Criterios de factibilidad: Presupuesto, Perfil de riesgo, Tamaño de cartera(Cantidad de activos), Diversificacion, Correlacion
+Criterios de optimizción: Objetivo principal, Penalizacion por riesgo, Empates adicionales

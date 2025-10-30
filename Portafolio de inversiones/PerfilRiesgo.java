@@ -1,0 +1,7 @@
+public enum PerfilRiesgo {
+    CONSERVADOR,
+    CONSERVADORMODERADO, 
+    MODERADO,
+    AGRESIVOMODERADO,
+    AGRESIVO
+}
