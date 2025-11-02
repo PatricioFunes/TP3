@@ -41,6 +41,8 @@ public class Cliente {
                 '}';
     }
 
+private final List<String> activosProhibidos = new ArrayList<>();
+public List<String> getActivosProhibidos() { return activosProhibidos; }
 
 
 

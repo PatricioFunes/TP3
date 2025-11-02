@@ -25,5 +25,13 @@ public class PortafolioPrincipal {
     public double getRetornoTotalEsperado() { return retornoTotalEsperado; }
     public double getRiesgoTotal() { return riesgoTotal; }
     public double getCostoTotal() { return costoTotal; }
+
+    public void setActivos(List<Activo> activos) { this.Activos = activos; }
+    public void setRetornoTotalEsperado(double r) { this.retornoTotalEsperado = r; }
+    public void setRiesgoTotal(double r) { this.riesgoTotal = r; }
+    public void setCostoTotal(double c) { this.costoTotal = c; }
+
     
 }
+
+
